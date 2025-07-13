@@ -91,3 +91,7 @@ Used: 10G / Total: 20G (Used: 50%)
 ## 🚀 How to Run
 chmod +x server-stats.sh
 ./server-stats.sh
+
+
+
+🔗 Project URL: https://roadmap.sh/projects/server-stats
