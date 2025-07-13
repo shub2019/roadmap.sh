@@ -87,3 +87,7 @@ Used: 10G / Total: 20G (Used: 50%)
  2345 python3         18.9
  3456 postgres         7.1
 
+
+## 🚀 How to Run
+chmod +x server-stats.sh
+./server-stats.sh
